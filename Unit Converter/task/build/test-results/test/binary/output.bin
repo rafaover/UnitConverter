@@ -1,0 +1,25 @@
+[1;31m
+Start test 1[0m
+;Enter what you want to convert (or exit): > 1 kg to ounces
+*1.0 kilogram is 35.27399072294044 ounces
+>Enter what you want to convert (or exit): > 2 meters in yards
+(2.0 meters is 2.1872265966754156 yards
+:Enter what you want to convert (or exit): > 1 pound in kg
+!1.0 pound is 0.453592 kilograms
+1Enter what you want to convert (or exit): > exit
+[1;31m
+Start test 2[0m
+6Enter what you want to convert (or exit): > 1 oz to g
+1.0 ounce is 28.3495 grams
+=Enter what you want to convert (or exit): > 100 cm in meters
+ 100.0 centimeters is 1.0 meter
+=Enter what you want to convert (or exit): > 23.34 feet to in
+23.34 feet is 280.08 inches
+1Enter what you want to convert (or exit): > exit
+[1;31m
+Start test 3[0m
+9Enter what you want to convert (or exit): > 1 kn to feet
++Conversion from ??? to foot is impossible
+>Enter what you want to convert (or exit): > 3 grams to meters
+-Conversion from gram to meter is impossible
+1Enter what you want to convert (or exit): > exit
