@@ -370,24 +370,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6093#comment
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Wrong answer in test #3
-
-    Your line &quot;Enter what you want to convert (or exit): Conversion from ??? to foot is impossible&quot;
-    doesn&#39;t match with &quot;Enter what you want to convert (or exit): Conversion from ??? to feet is impossible&quot;
-    in parts &quot;foot&quot; and &quot;feet&quot;.
-
-    Please find below the output of your program during this failed test.
-    Note that the &#39;&gt;&#39; character indicates the beginning of the input line.
-
-    ---
-
-    Enter what you want to convert (or exit): &gt; 1 kn to feet
-    Conversion from ??? to foot is impossible
-    Enter what you want to convert (or exit): &gt; 3 grams to meters
-    Conversion from gram to meter is impossible
-    Enter what you want to convert (or exit): &gt; exit
-  time: Mon, 03 Oct 2022 23:21:08 UTC
+  message: Congratulations!
+  time: Mon, 03 Oct 2022 23:59:24 UTC
 record: 3

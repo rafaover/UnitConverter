@@ -16,11 +16,11 @@ fun main() {
             continue@loopcheck
         }
         if (originalUnit == null && convertedUnit != null) {
-            println("Conversion from ??? to ${convertedUnit.singular} is impossible")
+            println("Conversion from ??? to ${convertedUnit.plural} is impossible")
             continue@loopcheck
         }
         if (originalUnit != null && convertedUnit == null) {
-            println("Conversion from ${originalUnit.singular} to ??? is impossible")
+            println("Conversion from ${originalUnit.plural} to ??? is impossible")
             continue@loopcheck
         }
         if (originalUnit == null && convertedUnit == null) {
@@ -29,7 +29,7 @@ fun main() {
         }
         if (originalUnit != null && convertedUnit != null) {
             if (originalUnit.type != convertedUnit.type) {
-                println("Conversion from ${originalUnit.singular} to ${convertedUnit.singular} is impossible")
+                println("Conversion from ${originalUnit.plural} to ${convertedUnit.plural} is impossible")
                 continue@loopcheck
             } else {
                 // Conversion Calculus
