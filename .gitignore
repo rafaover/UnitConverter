@@ -2,6 +2,19 @@
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
+# Learning Topic from the Jetbrains Course
+Topics/
+
+# SubTasks for Learning
+Unit Converter/Distances
+Unit Converter/Heavy duty
+Unit Converter/Is it getting hot here
+Unit Converter/Let’s get metric
+Unit Converter/Standard output
+Unit Converter/*.yaml
+Unit Converter/task/test
+Unit Converter/task/build
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
