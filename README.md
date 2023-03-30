@@ -1,5 +1,3 @@
-UNIT CONVERTER 
-(Created during Kotlin Basics Learning on JetBrains)
+# UNIT CONVERTER 
 
-Mostly convert lenght and weight measures.
-Temperature conversion are in Progress.
+Convert lenght and weight measures.
